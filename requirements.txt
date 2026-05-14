@@ -1,0 +1,5 @@
+# Outdated and vulnerable packages (Intentional for OWASP Dependency-Check to catch)
+Flask==1.1.2
+Jinja2==2.11.2
+Werkzeug==1.0.1
+requests==2.24.0
